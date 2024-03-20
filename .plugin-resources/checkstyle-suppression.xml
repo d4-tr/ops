@@ -4,4 +4,6 @@
         "https://checkstyle.org/dtds/suppressions_1_2.dtd">
 <suppressions>
     <suppress checks="Javadoc" files="."/>
+    <suppress checks="LineLength" files="."/>
+    <suppress checks="HideUtilityClassConstructor" files="."/>
 </suppressions>
